@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_223069dfa2df3238cfa1258c5e9b4eff51d6215d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.1.0_afdbe8b501016813e6224e4d7ceec4cc96e26e82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c77ef83420db92b311d7f6ea0240a5e000b20d82">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.mapbox.mapboxsdk-mapbox-android-sdk-4.2.2_aa800fc7cc3526a1663eb65ea307e4778dd81b7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_9470380b83368cfdd0d76965990fdc689c2160bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_4067b8c6fbbbbf97fe3bad8299effbbd8686d6f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.1.0_be878b042426919ed5f690b92bf648a9198eca35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_c786adde7eb4f3a16dda7f276c4bc65555825cef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_1dfdb9ffae7460f2c7ca1997d51f7636055a36f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_11ce4e62e548d3e6360e85bff4890e79aaad124f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_ab81d2f9cf34b8ab03ebe201494b24c087cdb584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.1.0_3acf2dfaa04a8397e43fb220d32afb4f479d1974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_0f94ef805c06fb2da1639ba700f12f5156fab596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_368743ab8bde1da1030485db176505b08caf0b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.1.0_e098293d5aee49cb780ba43921044cf3177fdf49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_0f611089f03a5b3bb67b675398817e30638edbef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_5e58892d31ef1295eb672798e3fa07103853768d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_4cb00645f1b034e144952f19f73a627cc0be2c35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_7a21bbcd2ea6254f17caf5ad7f34bfdcc7b8e70e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_7a52941079dfcc296f643a0ca5d5499ecd81866b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c77ef83420db92b311d7f6ea0240a5e000b20d82">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.mapbox.mapboxsdk-mapbox-android-sdk-4.2.2_0bd02d44a5bac7c93d814a4bd4312ac954de4c64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.1.0_f27fecc9c9e19bc1ec7e323fa102268a6c527eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.1.0_cbb760ed1560d02efb7e934a7ec9d76c41153e66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c9d0d2b21baebf49c526d857991e2d48f30fcb00">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.mapzen.android-lost-1.1.1_328aa98db355a4cee2bd465162d4503ad270342c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_1347e3620f7473c0554d3a3d0bdc99f6d39ba5f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_302c1cea93d95494b271cad4a7bc8c112ac871c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_6e3564a92f49d603b7e1e435d52171ced493b42c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_d3eb5698ef86d7bca61b1d7121472ca8a1ac6046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_fa9a945311f071dea907ed41b99066517a2064f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.1.0_a23c7075620b18a43ca2ae209dd2855d5dad1828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.1_218c019d9886bb128a4a98277061c01c015b1494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.1.0_c83990a4cccc08d37b7d6120b3b5833336ebfeef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c9d0d2b21baebf49c526d857991e2d48f30fcb00">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.mapzen.android-lost-1.1.1_65af471f7b6c4e1fbc78554bfd591bb63da4a5d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_a6628918da045389c101a71df775e1631f075fa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_f68ca5c55a49a9533f08cb50eea297862ef06b80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_2c3e3a8a1fd72479c8a93ba10d494545b5aeb4de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_f814c7100c8f498221f74b1d512b0ce3eead474b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c9d0d2b21baebf49c526d857991e2d48f30fcb00">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.mapzen.android-lost-1.1.1_a4a2f7226ece94a4c6edc5715fedbfbc94f30774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_de8726231fb2733001af92edb941bcc702541f18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.2.0\4a5a82a027706397fff621b22fd6fa796e91d7c5\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_ed7114ff7931bf7e5d3ae781fe0e5920a60c2db2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.1.0_e067f9e4012e2206179afd46ad9cf715bc29d51f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-services\1.3.1\6bda5f2cf57af827c1a9703a77ed9e451e6d6d25\mapbox-java-services-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6bda5f2cf57af827c1a9703a77ed9e451e6d6d25">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\mapbox-java-services-1.3.1_00a58b450963172fa9fa0092888493731cd95753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_39de316a9ea096a79be12c8a56b21b9781f0ce99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_3008c606e4150c185da18ba04336f68b91a92c60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_0e03444235d2842a94dcf2bda5946116b5c3855c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_9eff8d083c284edb0f17c6ef8182d445e7c74535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.1.0_b986c936472dfb30c85e3b0071e1f64e288e56cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.android.support\transition\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.1.0_d1808b7b14686f88e4f84527b21e44e1dd74e173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_ca4fb665fe5c790752f8ff80986be60635b09d5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_1bb9d5100053f068b1bfe3f7658398e3c71a4661.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_b02f7360a3d2a37512c31897b7d300187361ecae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_c006f2c85ed5f70e9f01606a497a9b37521718a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\common-1.0.0_2c5c07f1ec8a3eb5e3e455f12e3861c3922e5a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_0c6efa09824aabae1602ad0e09e62aff678185b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\gson-2.7_34b03193accb91e6fe46347eb4352a3b8f6affda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c77ef83420db92b311d7f6ea0240a5e000b20d82">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.mapbox.mapboxsdk-mapbox-android-sdk-4.2.2_e180a327a8c67b40aa533b6bc2a528ce58a99943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\common-1.0.0_653b131c9278bb4e5e9b75540285f0adbfb0161b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\guava-18.0_f5865a820dc6468b717ec7318e4884282b22f202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_c1b5971a2885f977f56ebb94923db56b82c8e4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_f2354d317501e56965619cc60484ae0fcaea6c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_bdffe0ca40918f4d853a23db9bdf5d26e12998d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.android.support\design\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.1.0_03c47ed51027ce9f396fc11517070a25a86203c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.mapzen.android\lost\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c9d0d2b21baebf49c526d857991e2d48f30fcb00">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.mapzen.android-lost-1.1.1_cecc47f5532c2307a67f0b4db53a4dae884f1bd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_86418a5fd886ad39a1412bd2f93aa4d6b6d1c3de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo-2\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_5706caa1121c30b81e79c696b3ec544f4cf8093f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_ecc3953de50b19bd12c8f391a64896fb2389d053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\okio-1.9.0_a7263f1462100ce8ad249ca59c4e87cd5acc7a8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\exploded-aar\com.mapbox.mapboxsdk\mapbox-android-sdk\4.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c77ef83420db92b311d7f6ea0240a5e000b20d82">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-4\app\build\intermediates\pre-dexed\debug\com.mapbox.mapboxsdk-mapbox-android-sdk-4.2.2_50734e3d3db3a455000609a465928bd6d7b9a739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Administration\Desktop\Mapbox-demo-3\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_486a155bb26ee653579434b8899fafb785a3373a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Administration\Downloads\Mapbox-demo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_3ad7df2845a23142df27b6d39fcf4ab7dbe049f4.jar" />
+    </item>
+
+</items>
